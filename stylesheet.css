@@ -141,3 +141,9 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+
+.pub-highlight {
+    background-color: #fff9e6;
+    border-radius: 10px;
+}
